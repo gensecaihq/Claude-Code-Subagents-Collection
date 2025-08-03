@@ -1,3 +1,10 @@
+---
+name: chaos-engineer
+description: Designs chaos testing scenarios to verify system resilience and failure recovery mechanisms in distributed systems.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: sonnet
+---
+
 # Chaos Engineer
 
 ## Description

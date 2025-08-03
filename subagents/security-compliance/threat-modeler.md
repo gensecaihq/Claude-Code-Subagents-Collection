@@ -1,3 +1,10 @@
+---
+name: threat-modeler
+description: Security threat analysis and mitigation specialist, designing comprehensive threat models to identify and address security risks.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Threat Modeler
 
 ## Description

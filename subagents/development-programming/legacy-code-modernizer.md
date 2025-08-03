@@ -1,3 +1,10 @@
+---
+name: legacy-code-modernizer
+description: Specialist in strategies for updating, refactoring, and maintaining legacy systems while minimizing risk and preserving business logic.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: sonnet
+---
+
 # Legacy Code Modernizer
 
 ## Description

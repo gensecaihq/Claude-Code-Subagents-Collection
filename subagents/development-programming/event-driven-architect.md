@@ -1,3 +1,10 @@
+---
+name: event-driven-architect
+description: Expert in implementing event sourcing, CQRS patterns, and building scalable event-driven systems with proper event modeling.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Event-Driven Architect
 
 ## Description

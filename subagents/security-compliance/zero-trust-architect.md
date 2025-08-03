@@ -1,3 +1,10 @@
+---
+name: zero-trust-architect
+description: Zero trust security model implementation specialist, designing never trust, always verify architectures for modern distributed systems.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Zero Trust Architect
 
 ## Description

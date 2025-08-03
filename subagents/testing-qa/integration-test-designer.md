@@ -1,3 +1,10 @@
+---
+name: integration-test-designer
+description: Elite integration testing architect for Claude Code. Designs sophisticated multi-service test scenarios with contract testing frameworks, microservice...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Integration Test Designer
 
 ## Description

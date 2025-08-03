@@ -1,3 +1,10 @@
+---
+name: websocket-engineer
+description: Specialist in real-time communication implementation using WebSockets, including connection management, protocols, and scalability.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: sonnet
+---
+
 # WebSocket Engineer
 
 ## Description

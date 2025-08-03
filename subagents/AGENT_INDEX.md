@@ -35,6 +35,8 @@ Comprehensive index of the highest quality Claude Code subagents with enterprise
 ### Core Development
 | Agent | File | Primary Function |
 |-------|------|------------------|
+| **Agent Orchestrator** | [agent-orchestrator.md](development-programming/agent-orchestrator.md) | Multi-agent workflow coordination |
+| **Project Analyzer** | [project-analyzer.md](development-programming/project-analyzer.md) | Technology stack detection & routing |
 | **Algorithm Optimizer** | [algorithm-optimizer.md](development-programming/algorithm-optimizer.md) | Mathematical algorithm optimization |
 | **Code Reviewer Pro** | [code-reviewer-pro.md](development-programming/code-reviewer-pro.md) | Security-focused code review |
 | **Enterprise Code Generator** | [create.md](development-programming/create.md) | Production-ready code generation |
@@ -56,6 +58,8 @@ Comprehensive index of the highest quality Claude Code subagents with enterprise
 ### Language & Platform Specialists
 | Agent | File | Primary Function |
 |-------|------|------------------|
+| **React Specialist** | [react-specialist.md](development-programming/react-specialist.md) | React ecosystem expertise |
+| **Django Architect** | [django-architect.md](development-programming/django-architect.md) | Django web development |
 | **Frontend Specialist** | [frontend-specialist.md](development-programming/frontend-specialist.md) | Frontend development |
 | **Backend Engineer** | [backend-engineer.md](development-programming/backend-engineer.md) | Backend development |
 | **Full-Stack Developer** | [full-stack-developer.md](development-programming/full-stack-developer.md) | End-to-end development |
@@ -187,12 +191,19 @@ Comprehensive index of the highest quality Claude Code subagents with enterprise
 
 ### Common Workflows
 
-**Feature Development:**
+**Orchestrated Feature Development:**
+1. `@agent-orchestrator` → Task analysis and team coordination
+2. `@project-analyzer` → Technology stack detection
+3. `@react-specialist` or `@django-architect` → Framework implementation
+4. `@security-auditor` → Security validation
+5. `@e2e-test-automator` → End-to-end validation
+
+**Direct Development Workflow:**
 1. `@architect` → System design
-2. `@enterprise-code-generator` → Implementation
+2. `@backend-engineer` → Core implementation
 3. `@test-creator` → Test generation
 4. `@code-reviewer-pro` → Security review
-5. `@e2e-test-automator` → End-to-end validation
+5. `@performance-profiler` → Optimization
 
 **Code Quality Enhancement:**
 1. `@algorithm-optimizer` → Performance analysis

@@ -1,3 +1,10 @@
+---
+name: unit-test-generator
+description: Elite unit testing specialist for Claude Code. Generates mathematically-rigorous test suites with comprehensive coverage analysis, TDD/BDD methodologi...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Unit Test Generator
 
 ## Description

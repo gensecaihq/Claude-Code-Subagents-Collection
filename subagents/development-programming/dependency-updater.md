@@ -1,3 +1,10 @@
+---
+name: dependency-updater
+description: Elite dependency management specialist for Claude Code. Automates secure package updates with vulnerability assessment, breaking change analysis, and ...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Dependency Updater
 
 ## Description

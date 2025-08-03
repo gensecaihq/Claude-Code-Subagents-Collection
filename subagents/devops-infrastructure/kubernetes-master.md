@@ -1,3 +1,10 @@
+---
+name: kubernetes-master
+description: K8s cluster management and optimization expert, specializing in container orchestration, scaling, and production-ready deployments.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Kubernetes Master
 
 ## Description

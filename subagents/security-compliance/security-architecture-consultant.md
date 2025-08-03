@@ -1,3 +1,10 @@
+---
+name: security-architecture-consultant
+description: Elite security architecture expert specializing in zero-trust design patterns, enterprise security frameworks, and comprehensive threat modeling with ...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Security Architecture Consultant
 
 ## Description

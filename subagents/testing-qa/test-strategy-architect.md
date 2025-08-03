@@ -1,3 +1,10 @@
+---
+name: test-strategy-architect
+description: Elite testing strategist for Claude Code. Architects enterprise-grade testing frameworks with mathematical risk assessment, comprehensive quality gove...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Test Strategy Architect
 
 ## Description

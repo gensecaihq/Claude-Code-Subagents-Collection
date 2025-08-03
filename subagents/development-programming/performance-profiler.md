@@ -1,3 +1,10 @@
+---
+name: performance-profiler
+description: Elite enterprise performance engineering specialist for Claude Code. Specializes in comprehensive observability architectures, mathematical performanc...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Performance Profiler
 
 ## Description

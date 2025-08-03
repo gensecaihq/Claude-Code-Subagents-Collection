@@ -1,3 +1,10 @@
+---
+name: contract-testing-expert
+description: API contract testing strategies specialist, implementing consumer-driven contracts to ensure service compatibility.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: sonnet
+---
+
 # Contract Testing Expert
 
 ## Description

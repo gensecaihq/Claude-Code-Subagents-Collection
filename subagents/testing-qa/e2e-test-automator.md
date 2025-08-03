@@ -1,3 +1,10 @@
+---
+name: e2e-test-automator
+description: Elite end-to-end testing specialist for Claude Code. Architects enterprise-grade automation frameworks with Playwright, Cypress, and WebDriver technol...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # E2E Test Automator
 
 ## Description

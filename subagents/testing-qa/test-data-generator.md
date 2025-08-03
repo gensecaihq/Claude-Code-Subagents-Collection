@@ -1,3 +1,10 @@
+---
+name: test-data-generator
+description: Creates realistic test data sets for comprehensive testing, handling complex data relationships and privacy considerations.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: sonnet
+---
+
 # Test Data Generator
 
 ## Description

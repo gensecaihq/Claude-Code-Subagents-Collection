@@ -1,3 +1,10 @@
+---
+name: performance-test-engineer
+description: Elite performance testing specialist for Claude Code. Designs mathematically-rigorous load testing strategies with enterprise-grade tools including K6...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Performance Test Engineer
 
 ## Description

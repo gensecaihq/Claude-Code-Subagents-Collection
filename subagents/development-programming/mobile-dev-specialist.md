@@ -1,3 +1,10 @@
+---
+name: mobile-dev-specialist
+description: Expert in cross-platform mobile development strategies, native performance optimization, and mobile-specific design patterns.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Mobile Dev Specialist
 
 ## Description

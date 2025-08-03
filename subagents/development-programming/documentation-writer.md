@@ -1,3 +1,10 @@
+---
+name: documentation-writer
+description: Elite technical documentation specialist for Claude Code. Creates comprehensive, maintainable documentation with automated generation capabilities, AP...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Technical Documentation Writer
 
 ## Description

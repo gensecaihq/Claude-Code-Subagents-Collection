@@ -1,3 +1,10 @@
+---
+name: microservices-designer
+description: Elite enterprise microservices architect for Claude Code. Specializes in Domain-Driven Design, service mesh architecture, CQRS/Event Sourcing patterns...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Microservices Designer
 
 ## Description

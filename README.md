@@ -57,48 +57,65 @@ subagents/
 
 ### 🌟 **Using Enterprise-Grade Agents**
 
-**1. Select Quality Tier**: Choose agents based on your requirements
+**1. Orchestrated Workflows**: Start with intelligent coordination
 ```bash
-# Enterprise-Grade (9.0+/10) - Production systems
-/agents create algorithm-optimizer      # Mathematical optimization
-/agents create security-auditor         # NIST compliance assessment
-/agents create e2e-test-automator      # Professional test automation
+# Begin with orchestration for complex tasks
+@agent-orchestrator Plan e-commerce checkout feature implementation
+@project-analyzer Detect technology stack and framework patterns
 
-# Professional-Grade (7.0-8.9/10) - Business applications  
-/agents create backend-engineer         # Distributed systems design
-/agents create performance-profiler     # ML-driven optimization
+# Direct agent usage for specific tasks
+@algorithm-optimizer      # Mathematical optimization (9.5/10)
+@security-auditor         # NIST compliance assessment (9.2/10)
+@e2e-test-automator      # Professional test automation (9.5/10)
 ```
 
-**2. Configure Enterprise Standards**: Apply security-first configurations
+**2. Framework-Specific Development**: Leverage specialized expertise
 ```bash
-# Configure with enterprise security settings
-/agents configure algorithm-optimizer --security-level=enterprise
-/agents configure security-auditor --compliance-frameworks=nist,owasp,iso27001
+# Framework specialists for targeted development
+@react-specialist Build modern React components with TypeScript
+@django-architect Design scalable Django backend architecture
+@backend-engineer Implement distributed microservices patterns
+@performance-profiler Optimize critical performance bottlenecks
 ```
 
-**3. Multi-Agent Workflows**: Leverage integration patterns
+**3. Multi-Agent Collaboration**: Seamless agent handoffs
 ```bash
-# Enterprise development workflow
-@backend-engineer Design microservices architecture for payment system
-@security-auditor Assess security posture and compliance requirements  
-@algorithm-optimizer Optimize critical path performance algorithms
-@e2e-test-automator Create comprehensive test automation suite
+# Coordinated development workflow
+@agent-orchestrator → Task analysis and team selection
+@project-analyzer → Technology stack detection and context
+@react-specialist → Frontend implementation with modern patterns
+@django-architect → Backend API development with security
+@security-auditor → Comprehensive security assessment
+@e2e-test-automator → End-to-end validation and testing
 ```
 
 ### 🎯 **Professional Integration Examples**
 
-**Enterprise Code Review Workflow:**
+**Intelligent Feature Development:**
 ```bash
-@code-reviewer-pro Review authentication module for OWASP compliance
-@security-auditor Perform quantitative risk assessment with CVSS 4.0
-@vulnerability-assessment-specialist Execute penetration testing validation
+# Complete feature with orchestrated workflow
+@agent-orchestrator "Build user authentication with social login"
+# → Automatically coordinates: @project-analyzer → @react-specialist → @django-architect → @security-auditor → @test-creator
 ```
 
-**Performance Optimization Pipeline:**
+**Advanced Multi-Agent Workflows:**
 ```bash
-@performance-profiler Analyze system bottlenecks with statistical modeling
-@algorithm-optimizer Apply mathematical optimization with complexity analysis
-@backend-engineer Implement distributed caching with consistency guarantees
+# E-commerce optimization pipeline
+@project-analyzer → Stack analysis for performance context
+@performance-profiler → Identify bottlenecks with metrics
+@algorithm-optimizer → Mathematical optimization of critical paths
+@backend-engineer → Implement caching and distributed patterns
+@security-auditor → Validate security implications
+@e2e-test-automator → Comprehensive performance testing
+```
+
+**Enterprise Security Pipeline:**
+```bash
+# Comprehensive security assessment
+@code-reviewer-pro → Security-focused code review (90% threshold)
+@security-auditor → NIST/OWASP compliance validation (95% threshold)
+@vulnerability-assessment-specialist → Penetration testing
+@compliance-automation-engineer → SOX/PCI-DSS automation
 ```
 
 ## 🎯 **STRATEGIC AGENT CATEGORIES**

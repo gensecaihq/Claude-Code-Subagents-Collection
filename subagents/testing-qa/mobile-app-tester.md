@@ -1,3 +1,10 @@
+---
+name: mobile-app-tester
+description: Elite mobile testing specialist for Claude Code. Implements comprehensive mobile testing strategies with device management automation, cross-platform ...
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # Mobile App Tester
 
 ## Description

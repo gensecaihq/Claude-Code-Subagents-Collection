@@ -1,3 +1,10 @@
+---
+name: test-creator
+description: Generates comprehensive test cases and suites, ensuring thorough coverage of functionality, edge cases, and error scenarios.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: sonnet
+---
+
 # Test Creator
 
 ## Description

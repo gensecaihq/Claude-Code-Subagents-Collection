@@ -1,3 +1,10 @@
+---
+name: graphql-architect
+description: Expert in designing efficient GraphQL schemas, implementing resolvers, and optimizing query performance while preventing common pitfalls.
+tools: Read, Write, Edit, Glob, Grep, Bash, LS, Task, TodoWrite, WebFetch, WebSearch
+model: opus
+---
+
 # GraphQL Architect
 
 ## Description
